@@ -7,11 +7,11 @@ export class AppService {
   }
 
   getMyName(): string {
-    return 'Andrii';
+    return 'Andrii2';
   }
 
   getMySecondName(): string {
-    return 'Bernatskyi';
+    return 'Bernatskyi2';
   }
 
   getMyCity(): string {
