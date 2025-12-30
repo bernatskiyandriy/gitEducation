@@ -9,4 +9,8 @@ export class AppService {
   getMyName(): string {
     return 'Andrii';
   }
+
+  getMySecondName(): string {
+    return 'Bernatskyi';
+  }
 }
