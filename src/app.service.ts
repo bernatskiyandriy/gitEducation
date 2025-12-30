@@ -13,4 +13,8 @@ export class AppService {
   getMySecondName(): string {
     return 'Bernatskyi';
   }
+
+  getMyCity(): string {
+    return 'Lviv';
+  }
 }
